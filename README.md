@@ -3,7 +3,7 @@
 
 ### Hi! 👋
 
-<h2>I'm Karolina and I'm looking for my first job as Web Developer. I'm basen in Wroclaw, Poland. </h2>
+<h2>I'm Karolina and I'm looking for my first job as Web Developer. I'm based in Wroclaw, Poland. </h2>
 
 <p>I'm currently working on a blog app in the MERN stack and I'm learning about accessibility, the basics of TypeScript and also I'm expanding my knowledge of testing. I associate my professional development with the MERN stack. I am looking for a place where I will be able to develop my skills in this area and learn best practices from people with more experience. </p>
 
